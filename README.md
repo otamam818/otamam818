@@ -1,17 +1,13 @@
 # Tahmin Ahmed 
-*GitHub username*: `(@otamam818)`  
+GitHub Username: `(@otamam818)`  
+[LinkedIn](https://www.linkedin.com/in/tahmin-ahmed-5998a0200/)  
+[Resume](https://otamam818.github.io/ResumePlus/index.html)
+
+---
 **Interests**: 
 - Software Development
 - Web Development
 - Game Development
-
-**Currently learning**
-- Java
-- Javascript
-- Programming practices
-- Git
-
-[LinkedIn](https://www.linkedin.com/in/tahmin-ahmed-5998a0200/)
 
 <!---
 otamam818/otamam818 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
