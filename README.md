@@ -1,10 +1,9 @@
-# Tahmin Ahmed 
-GitHub Username: `(@otamam818)`  
-[LinkedIn](https://www.linkedin.com/in/tahmin-ahmed-5998a0200/)  
-[Resume](https://otamam818.github.io/ResumePlus/index.html)
+## Contact and Info  
+Collaborate with me on [LinkedIn](https://www.linkedin.com/in/tahmin-ahmed-5998a0200/)  
+Check out my [resume](https://otamam818.github.io/ResumePlus/index.html)
 
 ---
-**Interests**: 
+## Interests  
 - Software Development
 - Web Development
 - Game Development
