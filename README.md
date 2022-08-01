@@ -7,8 +7,8 @@ Collaborate 🤝 with me on [LinkedIn](https://www.linkedin.com/in/tahmin-ahmed-
 Check out my ✍ [resume](https://otamam818.github.io/ResumePlus/index.html)
 
 ## Interests 🎸  
-- Software Development `//`
-- Web Development `</>`
+- Software Development 🐧
+- Web Development 🌐
 - Game Development 🎮
 
 I hope to talk to you soon!
