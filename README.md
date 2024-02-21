@@ -4,7 +4,7 @@ Thanks for coming to my 💻 GitHub profile! Take a look around and feel free to
 
 ## Contact and Info 📱  
 Collaborate 🤝 with me on [LinkedIn](https://www.linkedin.com/in/tahmin-ahmed-5998a0200/)  
-Check out my ✍ [resume](https://otamam818.github.io/ResumePlus/index.html)
+Email 📧 me at otamam818@gmail.com
 
 ## Interests 🎸  
 - Software Development 🐧
